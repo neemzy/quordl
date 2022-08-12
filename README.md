@@ -8,7 +8,7 @@ Quordle clone powered by React & Tailwind
 $ npm install
 ```
 
-For now, answers have to be manually set in `src/index.js` (make sure they are five letters long), and there is no support for a dictionary of allowed words.
+For now, the app uses a fixed (French) dictionary of words, and it doesn't discriminate guesses outside of this dictionary.
 
 ## Usage
 
